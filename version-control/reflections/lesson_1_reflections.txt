@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	-- help me deduce the bugs w elzy meno
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	progress watching 
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    mashro3
+
+ What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+ 		ah el docs hatb2a overhead in history 
+
+ //////////////////////////////////////////////////////////////// reflections = 5awtr 
+ --------------------------------------------------------------
+ How can you use the commands git log and git diff to view the history of files?
+
+ 	git log w ana gowa el folder 
+ 	git diff _ ID 3ashan a3rf eh el ta5yrat ely fe el commit da 
+ 	git diff id1 id2 }} comparing 
+
+ How might using version control make you more confident to make changes that could break something
+
+ 	momkn nerg3 le version adema by checkout 

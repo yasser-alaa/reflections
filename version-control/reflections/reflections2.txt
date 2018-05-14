@@ -1,7 +1,16 @@
-hello baby
+	hello baby
 
 #--
 How is the staging area different from the working directory and the repository? What value do you think it offers
 	
 	area that store a copy of changed files to be commited later so that i can choose specific change on specific file to commit 
 
+
+
+
+
+ulagaaaaaaaaaaaaa
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	i dont know i should write reflections
